@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Topla logo">
+  <rect width="128" height="128" rx="28" fill="#141415"/>
+  <rect x="1" y="1" width="126" height="126" rx="27" fill="none" stroke="#ededed" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M64 30v44m-18-18 18 18 18-18M34 88h60" fill="none" stroke="#ededed" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 22h22a5 5 0 0 1 5 5v5H30a5 5 0 0 1-5-5v-5Z" fill="#d9a441"/>
+</svg>
